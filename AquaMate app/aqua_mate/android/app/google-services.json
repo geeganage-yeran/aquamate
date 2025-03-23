@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004420116912",
+    "project_id": "aquamate-4ad2a",
+    "storage_bucket": "aquamate-4ad2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004420116912:android:70b8a12b8ad0aaae9de675",
+        "android_client_info": {
+          "package_name": "com.example.aqua_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7EfJWjyO7MMH7pvccasLbWMIVXjEvaTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
