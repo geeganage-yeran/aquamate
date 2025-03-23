@@ -29,6 +29,10 @@ AquaMate is an IoT-based automated aquarium management system that simplifies th
 3. **Lighting Control**: Users can automate or manually control the aquarium lighting based on a pre-set schedule.
 4. **Remote Access**: Through the AquaMate mobile app, users can monitor water quality and control feeding and lighting remotely.
 
+##Libraries for arduino
+1.https://github.com/arduino-libraries/WiFi
+2.https://github.com/mobizt/Firebase-ESP32
+
 ## Getting Started
 
 ### 1. Clone the repository
